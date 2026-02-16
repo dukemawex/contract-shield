@@ -2,6 +2,8 @@
 
 AI-powered contract risk analysis for freelancers. Upload PDF/DOCX contracts and get instant risk scores, red flag detection, negotiation tips, and draft response emails.
 
+**🔒 Security**: All dependencies are up-to-date and vulnerability-free (verified against GitHub Advisory Database)
+
 ## Features
 
 - 📄 **Contract Upload**: Support for PDF and DOCX formats
