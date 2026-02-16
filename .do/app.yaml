@@ -32,7 +32,5 @@ services:
     routes:
       - path: /
     envs:
-      - key: API_URL
-        value: ${backend.PUBLIC_URL}
       - key: NEXT_PUBLIC_API_URL
         value: ${backend.PUBLIC_URL}
